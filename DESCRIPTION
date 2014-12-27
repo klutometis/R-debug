@@ -1,0 +1,16 @@
+Package: debug
+Maintainer: Peter Danenberg <pcd@roxygen.org>
+License: MIT
+Title: printf-style debugging
+Type: Package
+LazyLoad: yes
+Author: Peter Danenberg <pcd@roxygen.org>
+Description: A wrapper around str, essentially, that associates
+    expressions and their values.
+Version: 0.1
+Date: 2011-06-21
+Collate: 'debug.R'
+Repository: R-Forge
+Repository/R-Forge/Project: debug
+Repository/R-Forge/Revision: 4
+Packaged: 2012-04-13 10:19:22 UTC; rforge
